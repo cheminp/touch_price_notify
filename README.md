@@ -10,3 +10,4 @@
 1. download the twstock module(https://github.com/mlouielu/twstock)
 2. setting your line token in the line 12
 3. create the alarm.xlsx
+4. start the touch_price_notify.py
